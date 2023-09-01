@@ -6,4 +6,6 @@
 
 ## 3. Open a new terminal
 
-## 4. npm run start
+## 4. npm install -g live-server
+
+## 5. npm run start
